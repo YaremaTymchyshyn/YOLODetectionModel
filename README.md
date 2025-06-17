@@ -1,0 +1,2 @@
+# YOLODetectionModel
+Бакалаврська робота
