@@ -1,0 +1,16 @@
+names:
+- artillery
+- military_truck
+- military_vehicle
+- tank
+nc: 4
+path: /content/Ground-Military-Transport-Recognition-2
+roboflow:
+  license: CC BY 4.0
+  project: ground-military-transport-recognition
+  url: https://universe.roboflow.com/jeremy-fhjar/ground-military-transport-recognition/dataset/2
+  version: 2
+  workspace: jeremy-fhjar
+test: test/images
+train: train/images
+val: valid/images
